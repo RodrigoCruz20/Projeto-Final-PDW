@@ -11,5 +11,6 @@ class Subcategory extends Model
 
     protected $fillable = [
         'name',
+        'expenses',
     ];
 }
